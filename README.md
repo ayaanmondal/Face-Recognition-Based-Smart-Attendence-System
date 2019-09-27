@@ -2,9 +2,15 @@
 
 ##     ::22nd Foundation Day::  :Vikram Saravai Innovation Contest:
 
-__Our Project Name:__
+### Our Project Name :
     _Face Recognition Based Smart Attendence System_
 
+### Creators :
+    1. Ayan Mondal.
+    2. Suman Mandal.
+    3. Amit kabi.
+    4. Amit Ghoswami.
+    5, Tapas Pal.
 
 ### Tools and Technology Used :
     Python3.
@@ -15,4 +21,4 @@ __Our Project Name:__
     Linux Enviroment.
 
 #### 1st runnre up Prize :)
-![Memories of That day](/home/ayan/Desktop/image1.jpg)
+![Memories of That day](git_images/image1.jpg)
