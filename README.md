@@ -1,4 +1,4 @@
-# Bankura Unnayani Institute Of Ingineering
+# Bankura Unnayani Institute Of Engineering
 
 ##     ::22nd Foundation Day::  :Vikram Saravai Innovation Contest:
 
