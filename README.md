@@ -1,6 +1,4 @@
-# Bankura Unnayani Institute Of Engineering
-
-##     ::22nd Foundation Day::  :Vikram Saravai Innovation Contest:
+ ::22nd Foundation Day::  :Vikram Saravai Innovation Contest:
 
 ### Our Project Name :
     _Face Recognition Based Smart Attendence System_
